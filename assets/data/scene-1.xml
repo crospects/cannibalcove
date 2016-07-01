@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="17" extheight="704" extwidth="1184" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="80.0" height="640" id="1" name="Level 2" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="1120">
+    <layers>
+        <color-bg blue="255" green="204" red="153"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="100" id="0" name="Region 0" pts="4,131.0,0.0,131.0,100.0,0.0,100.0,0.0,0.0" r="64" type="box" w="131" x="1023" y="413"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="3" name="Mark 1" sx="1.0" sy="1.0" x="53" y="218" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="4" id="5" name="Cannibal 2" sx="1.0" sy="1.0" x="451" y="383" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="4" id="5" name="Cannibal 3" sx="1.0" sy="1.0" x="769" y="446" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="4" id="5" name="Cannibal 4" sx="1.0" sy="1.0" x="135" y="479" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="4" id="5" name="Cannibal 5" sx="1.0" sy="1.0" x="864" y="285" z="0"/>
+        <actor a="0.0" aid="6" c="false" group="5" id="7" name="munEz 6" sx="1.0" sy="1.0" x="236" y="290" z="0"/>
+        <actor a="0.0" aid="7" c="false" group="5" id="7" name="munEz 7" sx="1.0" sy="1.0" x="478" y="206" z="0"/>
+        <actor a="0.0" aid="8" c="false" group="5" id="7" name="munEz 8" sx="1.0" sy="1.0" x="749" y="236" z="0"/>
+        <actor a="0.0" aid="9" c="false" group="5" id="7" name="munEz 9" sx="1.0" sy="1.0" x="1024" y="225" z="0"/>
+        <actor a="0.0" aid="10" c="false" group="5" id="7" name="munEz 10" sx="1.0" sy="1.0" x="1028" y="315" z="0"/>
+        <actor a="0.0" aid="11" c="false" group="5" id="7" name="munEz 11" sx="1.0" sy="1.0" x="1043" y="423" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="26"/>
+        <s enabled="true" id="12">
+            <prop id="1" list="0" val="0"/>
+            <prop id="2" list="0" val="2"/>
+            <prop id="4" list="0" val="1"/>
+            <prop id="7" list="0" val="false"/>
+            <prop id="8" list="0" val="false"/>
+            <prop id="9" list="0" val="No Control"/>
+            <prop id="10" list="0" val="1"/>
+            <prop id="11" list="0" val="1"/>
+            <prop id="12" list="0" val="Blur"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="480.0" y="256.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="864.0" y="224.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="960.0" y="512.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="288.0" y="32.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="448.0" y="288.0"/>
+        <p pts="4,64.0,0.0,64.0,32.0,0.0,32.0,0.0,0.0" x="224.0" y="384.0"/>
+        <p pts="4,0.0,32.0,0.0,0.0,64.0,0.0,64.0,32.0" x="288.0" y="544.0"/>
+        <p pts="4,0.0,32.0,0.0,0.0,96.0,0.0,96.0,32.0" x="1024.0" y="512.0"/>
+        <p pts="4,64.0,0.0,64.0,32.0,0.0,32.0,0.0,0.0" x="224.0" y="0.0"/>
+        <p pts="4,64.0,0.0,64.0,32.0,0.0,32.0,0.0,0.0" x="864.0" y="352.0"/>
+        <p pts="4,64.0,0.0,64.0,32.0,0.0,32.0,0.0,0.0" x="640.0" y="416.0"/>
+        <p pts="4,0.0,32.0,0.0,0.0,64.0,0.0,64.0,32.0" x="736.0" y="288.0"/>
+        <p pts="4,0.0,32.0,0.0,0.0,64.0,0.0,64.0,32.0" x="544.0" y="352.0"/>
+        <p pts="4,64.0,0.0,64.0,32.0,0.0,32.0,0.0,0.0" x="768.0" y="512.0"/>
+        <p pts="4,0.0,32.0,0.0,0.0,64.0,0.0,64.0,32.0" x="352.0" y="352.0"/>
+        <p pts="4,64.0,0.0,64.0,32.0,0.0,32.0,0.0,0.0" x="448.0" y="448.0"/>
+        <p pts="4,0.0,32.0,0.0,0.0,64.0,0.0,64.0,32.0" x="128.0" y="544.0"/>
+        <p pts="6,64.0,0.0,64.0,32.0,96.0,32.0,96.0,64.0,0.0,64.0,0.0,0.0" x="224.0" y="64.0"/>
+        <p pts="4,0.0,0.0,160.0,0.0,160.0,64.0,0.0,64.0" x="0.0" y="288.0"/>
+    </terrain>
+    <atlases members="0,1,2,3," retainAtlases="false"/>
+</scene>

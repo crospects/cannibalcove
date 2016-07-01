@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="8" extheight="704" extwidth="1024" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="80.0" height="640" id="0" name="Level 1" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="960">
+    <layers>
+        <grad-bg b1="255" b2="255" g1="102" g2="153" r1="102" r2="0"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="87" id="0" name="Region 0" pts="4,57.0,0.0,57.0,87.0,0.0,87.0,0.0,0.0" r="64" type="box" w="57" x="928" y="529"/>
+    </regions>
+    <terrainRegions>
+        <terrainRegion b="64" g="64" group="1" h="42" id="0" name="Terrain 0" pts="4,20.0,0.0,20.0,42.0,0.0,42.0,0.0,0.0" r="64" type="box" w="20" x="-539" y="-207"/>
+    </terrainRegions>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="3" name="Mark 1" sx="1.0" sy="1.0" x="290" y="474" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="4" id="5" name="Cannibal 2" sx="1.0" sy="1.0" x="834" y="511" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="5" id="7" name="munEz 3" sx="1.0" sy="1.0" x="389" y="490" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="26"/>
+        <s enabled="true" id="12">
+            <prop id="1" list="0" val="0"/>
+            <prop id="2" list="0" val="1"/>
+            <prop id="4" list="0" val="1"/>
+            <prop id="7" list="0" val="false"/>
+            <prop id="8" list="0" val="false"/>
+            <prop id="9" list="0" val="No Control"/>
+            <prop id="10" list="0" val="1"/>
+            <prop id="11" list="0" val="1"/>
+            <prop id="12" list="0" val="Blur"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="544.0" y="480.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="800.0" y="192.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="736.0" y="448.0"/>
+        <p pts="4,32.0,0.0,32.0,32.0,0.0,32.0,0.0,0.0" x="864.0" y="448.0"/>
+        <p pts="4,0.0,0.0,32.0,0.0,32.0,128.0,0.0,128.0" x="192.0" y="224.0"/>
+        <p pts="4,0.0,64.0,0.0,0.0,96.0,0.0,96.0,64.0" x="576.0" y="416.0"/>
+        <p pts="6,256.0,0.0,256.0,64.0,0.0,64.0,0.0,32.0,32.0,32.0,32.0,0.0" x="704.0" y="576.0"/>
+        <p pts="12,416.0,64.0,608.0,64.0,608.0,96.0,0.0,96.0,0.0,64.0,224.0,64.0,224.0,32.0,256.0,32.0,256.0,0.0,384.0,0.0,384.0,32.0,416.0,32.0" x="0.0" y="544.0"/>
+    </terrain>
+    <atlases members="0,1,2,3," retainAtlases="false"/>
+</scene>
